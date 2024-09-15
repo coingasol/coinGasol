@@ -1,4 +1,6 @@
 ## Hi there 👋
+联系tg
+https://t.me/Coin_Gasols
 
 <!--
 **coingasol/coinGasol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
